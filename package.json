@@ -28,26 +28,17 @@
     "typed-rx-emitter": "^1.0.3"
   },
   "devDependencies": {
-    "@types/jsdom": "^11.0.4",
-    "@types/react": "^16.3.5",
-    "@types/react-dom": "^16.0.4",
     "ava": "^0.25.0",
     "concurrently": "^3.5.1",
+    "flow": "^0.2.3",
     "flow-bin": "^0.69.0",
     "immutable": "^3.8.2",
-    "jsdom": "^11.7.0",
     "prettier": "^1.11.1",
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1",
-    "rxjs": "^5.5.8",
+    "rxjs": "^5.5.10",
     "shx": "^0.2.2",
     "tslint": "^5.9.1",
-    "tslint-react": "^3.5.1",
-    "typescript": "^2.8.1"
-  },
-  "peerDependencies": {
-    "react": ">=16.0.0",
-    "rxjs": ">=5.0.0"
+    "typescript": "^2.8.1",
+    "typestrict": "0.0.8"
   },
   "keywords": [
     "redux",

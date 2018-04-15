@@ -93,4 +93,3 @@ export type Plugin = <Actions extends object>(
 ) => StoreDefinition<Actions>
 
 export * from './plugins/logger'
-export * from './react'
